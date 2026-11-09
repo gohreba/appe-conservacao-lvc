@@ -1,0 +1,82 @@
+{
+  "origem": "LVC - dados 2026 / Q4:Z10",
+  "regras": {
+    "Ótimo(10)": {
+      "fresagem_descontinua": 0.05,
+      "fresagem_continua": 0.0,
+      "remendo_profundo": 0.0,
+      "reciclagem": 0.0,
+      "microrrevestimento": 0.0,
+      "reforco": 0.0,
+      "correcao_defeitos": 0.05,
+      "microap": 0.0,
+      "selagem_trincas": 1.0
+    },
+    "Bom(8)": {
+      "fresagem_descontinua": 0.05,
+      "fresagem_continua": 0.0,
+      "remendo_profundo": 0.0,
+      "reciclagem": 0.0,
+      "microrrevestimento": 0.0,
+      "reforco": 0.0,
+      "correcao_defeitos": 0.05,
+      "microap": 0.0,
+      "selagem_trincas": 1.0
+    },
+    "Regular(6)": {
+      "fresagem_descontinua": 0.05,
+      "fresagem_continua": 0.15,
+      "remendo_profundo": 0.02,
+      "reciclagem": 0.0,
+      "microrrevestimento": 1.0,
+      "reforco": 0.0,
+      "correcao_defeitos": 0.05,
+      "microap": 0.0,
+      "selagem_trincas": 0.0
+    },
+    "Regular(5)": {
+      "fresagem_descontinua": 0.05,
+      "fresagem_continua": 0.2,
+      "remendo_profundo": 0.04,
+      "reciclagem": 0.0,
+      "microrrevestimento": 1.0,
+      "reforco": 0.0,
+      "correcao_defeitos": 0.05,
+      "microap": 0.0,
+      "selagem_trincas": 0.0
+    },
+    "Ruim(4)": {
+      "fresagem_descontinua": 0.05,
+      "fresagem_continua": 0.3,
+      "remendo_profundo": 0.06,
+      "reciclagem": 1.0,
+      "microrrevestimento": 0.0,
+      "reforco": 1.0,
+      "correcao_defeitos": 0.0,
+      "microap": 0.0,
+      "selagem_trincas": 0.0
+    },
+    "Ruim(3)": {
+      "fresagem_descontinua": 0.05,
+      "fresagem_continua": 0.4,
+      "remendo_profundo": 0.08,
+      "reciclagem": 1.0,
+      "microrrevestimento": 0.0,
+      "reforco": 1.0,
+      "correcao_defeitos": 0.0,
+      "microap": 0.0,
+      "selagem_trincas": 0.0
+    },
+    "Péssimo(2)": {
+      "fresagem_descontinua": 0.05,
+      "fresagem_continua": 0.5,
+      "remendo_profundo": 0.1,
+      "reciclagem": 1.0,
+      "microrrevestimento": 0.0,
+      "reforco": 1.0,
+      "correcao_defeitos": 0.0,
+      "microap": 0.0,
+      "selagem_trincas": 0.0
+    }
+  }
+}

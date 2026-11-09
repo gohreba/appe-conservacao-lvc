@@ -1,0 +1,127 @@
+{
+  "rodovia": "SC-108",
+  "trecho": "SÃO JOÃO BATISTA - MAJOR GERCINO (ENTR. SC-408)",
+  "linha_memorial": 8,
+  "quantidades": {
+    "pct_reciclagem": {
+      "coluna": "F",
+      "valor_excel": 0.11538461538461539
+    },
+    "reciclagem_m3": {
+      "coluna": "G",
+      "valor_excel": 4115.676923076923
+    },
+    "tss_area_equivalente_m2": {
+      "coluna": "H",
+      "valor_excel": 20578.384615384617
+    },
+    "pintura_reciclagem_area_equivalente_m2": {
+      "coluna": "I",
+      "valor_excel": 20578.384615384617
+    },
+    "cauq_reciclagem_t": {
+      "coluna": "J",
+      "valor_excel": 2469.406153846154
+    },
+    "pct_fresagem_descontinua": {
+      "coluna": "K",
+      "valor_excel": 0.05000000000000002
+    },
+    "pct_fresagem_continua": {
+      "coluna": "L",
+      "valor_excel": 0.05384615384615385
+    },
+    "fresagem_descontinua_m3": {
+      "coluna": "M",
+      "valor_excel": 445.8650000000002
+    },
+    "fresagem_continua_m3": {
+      "coluna": "N",
+      "valor_excel": 480.1623076923077
+    },
+    "pintura_recomposicao_m2": {
+      "coluna": "O",
+      "valor_excel": 18520.546153846157
+    },
+    "cauq_descontinuo_t": {
+      "coluna": "P",
+      "valor_excel": 1070.0760000000005
+    },
+    "cauq_continuo_t": {
+      "coluna": "Q",
+      "valor_excel": 1152.3895384615385
+    },
+    "pct_correcao_defeitos": {
+      "coluna": "R",
+      "valor_excel": 0.04423076923076925
+    },
+    "fresagem_correcao_defeitos_m3": {
+      "coluna": "S",
+      "valor_excel": 394.4190384615386
+    },
+    "pintura_correcao_defeitos_m2": {
+      "coluna": "T",
+      "valor_excel": 7888.380769230772
+    },
+    "correcao_defeitos_m3": {
+      "coluna": "U",
+      "valor_excel": 394.4190384615386
+    },
+    "pct_microrrevestimento": {
+      "coluna": "V",
+      "valor_excel": 0.11538461538461539
+    },
+    "microrrevestimento_m2": {
+      "coluna": "W",
+      "valor_excel": 20578.384615384617
+    },
+    "pct_microap": {
+      "coluna": "X",
+      "valor_excel": 0.0
+    },
+    "microap_m2": {
+      "coluna": "Y",
+      "valor_excel": 0.0
+    },
+    "pct_remendo_profundo": {
+      "coluna": "Z",
+      "valor_excel": 0.01
+    },
+    "remocao_granular_m3": {
+      "coluna": "AA",
+      "valor_excel": 624.211
+    },
+    "remocao_revestimento_m3": {
+      "coluna": "AB",
+      "valor_excel": 89.173
+    },
+    "macadame_m3": {
+      "coluna": "AC",
+      "valor_excel": 356.692
+    },
+    "bgs_m3": {
+      "coluna": "AD",
+      "valor_excel": 267.519
+    },
+    "imprimacao_m2": {
+      "coluna": "AE",
+      "valor_excel": 1783.46
+    },
+    "pintura_remendo_m2": {
+      "coluna": "AF",
+      "valor_excel": 1783.46
+    },
+    "cauq_remendo_t": {
+      "coluna": "AG",
+      "valor_excel": 214.0152
+    },
+    "pct_selagem_trincas": {
+      "coluna": "AH",
+      "valor_excel": 0.7692307692307693
+    },
+    "selagem_trincas_unid_planilha": {
+      "coluna": "AI",
+      "valor_excel": 548.7569230769232
+    }
+  }
+}

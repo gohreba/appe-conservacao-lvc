@@ -1,0 +1,15 @@
+{
+  "largura_m": 7.0,
+  "espessura_reciclagem_m": 0.2,
+  "espessura_fresagem_m": 0.05,
+  "espessura_recomposicao_m": 0.05,
+  "espessura_correcao_m": 0.05,
+  "espessura_remocao_granular_m": 0.35,
+  "espessura_remocao_revestimento_m": 0.05,
+  "espessura_macadame_m": 0.2,
+  "espessura_bgs_m": 0.15,
+  "espessura_cauq_remendo_m": 0.05,
+  "espessura_cauq_reciclagem_m": 0.05,
+  "densidade_cauq_t_m3": 2.4,
+  "coef_selagem_por_m2": 0.004
+}
